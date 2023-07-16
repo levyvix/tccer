@@ -1,2 +1,5 @@
 /mnistm
 /mnistm_labels
+/1000_TCC/data
+/1000_TCC/dataset
+__pycache__
