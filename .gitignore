@@ -3,3 +3,6 @@
 /1000_TCC/data
 /1000_TCC/dataset
 __pycache__
+/mnist_background_images
+/domain_adaptation_images
+mnist_background_images.zip
