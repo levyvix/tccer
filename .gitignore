@@ -6,3 +6,4 @@ __pycache__
 /mnist_background_images
 /domain_adaptation_images
 mnist_background_images.zip
+/mnist*
